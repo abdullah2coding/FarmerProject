@@ -102,24 +102,10 @@ public class FarmerProject {
                         System.out.println("yanlis bir deger girdin");
                     }
               }
-          
-          
           }
-           
-          
-      
       }
-    
-    
-    
-      
-      
-      
-      }
-    
-    
-    
-    }
+    } 
+}
     
     
     
